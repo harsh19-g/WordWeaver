@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WordWeaver/static/css/main.2784506f.css",
+    "main.js": "/WordWeaver/static/js/main.4bce980e.js",
+    "static/js/787.9e89b8c0.chunk.js": "/WordWeaver/static/js/787.9e89b8c0.chunk.js",
+    "index.html": "/WordWeaver/index.html",
+    "main.2784506f.css.map": "/WordWeaver/static/css/main.2784506f.css.map",
+    "main.4bce980e.js.map": "/WordWeaver/static/js/main.4bce980e.js.map",
+    "787.9e89b8c0.chunk.js.map": "/WordWeaver/static/js/787.9e89b8c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2784506f.css",
+    "static/js/main.4bce980e.js"
+  ]
+}
